@@ -1,5 +1,7 @@
 # ConfuseSoftwareTool
 
+iOS(OC/Swift),Android(Java/Kotlin),Uniapp,React-Native,H5,Unity3D,Cocos2dx,Flutter代码打包，上包机器
+
 随着苹果对IOS审核更加严格，Google对账号的控制也异常严格。我们需要认真去对待每一个待上架的马甲包。 
 
 在以往，开发者经常用苹果虚拟机或者由windows系统重装的黑苹果来提包，这种方式作为上包和打包机器，成本低，但是可靠性不足。也有一些者开发者，购买全新的低配MAC电脑来打包上架，这种方式作为上包和打包机器，可靠性强，但是成本高，对初创型公司或者个人开发者不友好。

@@ -1,5 +1,5 @@
 #!/bin/sh
-# author xiaohuang
+# author stbz
 git status
 git add .
 echo "Please enter your update content:"
